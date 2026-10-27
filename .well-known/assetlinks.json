@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mrmand0justone.nouran",
+        "sha256_cert_fingerprints": ["86:2C:0C:D8:0C:CC:47:98:3F:8B:F8:40:EE:98:3E:54:FA:47:39:36:A9:35:29:AC:B6:2A:D3:5C:97:E9:30:E4"]
+      }
+    }]
